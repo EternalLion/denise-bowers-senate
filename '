@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Denise Bowers Delaware State Senate District 5</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/stylish-portfolio.css" rel="stylesheet">
+</head>
+
+<body id="page-top">
+  <!-- Navigation -->
+    <a class="menu-toggle rounded" href="#">
+        <i class="fas fa-bars"></i>
+    </a>
+    <nav id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <li class="sidebar-brand">
+                <a class="js-scroll-trigger" href="#page-top">Main Menu</a>
+            </li>
+            <li class="sidebar-nav-item">
+                <a class="js-scroll-trigger" href="#page-top">Home</a>
+            </li>
+            <li class="sidebar-nav-item">
+                <a class="js-scroll-trigger" href="#about">About</a>
+            </li>
+            <li class="sidebar-nav-item">
+                <a class="js-scroll-trigger" href="#map">Map</a>
+            </li>
+            <li class="sidebar-nav-item">
+                <a class="js-scroll-trigger" href="#contact">Contact</a>
+            </li>
+            <li class="sidebar-nav-item">
+                <a class="js-scroll-trigger" href="#donate">Donate</a>
+            </li>
+        </ul>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead d-flex">
+        <div class="container text-center my-auto">
+            <h1 class="mb-1">Denise Bowers</h1>
+            <h3 class="mb-5">
+                <em>Delaware State Senate District 5</em></h3>
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">
+                Meet Denise
+            </a>
+        </div>
+        <div class="overlay"></div>
+    </header>
+
+  <!-- About -->
+    <section class="content-section bg-light" id="about">
+        <div class="container text-center">
+            <div class="content-section-heading">
+                <h3 class="text-secondary mb-0">About</h3>
+                <h2>Meet Denise</h2>
+            </div>
+            <div class="projects-section row justify-content-center no-gutters mb-5 mb-lg-0">
+                <div class="col-lg-6">
+                    <div class="text-center h-100 project">
+                        <div class="bg-primary d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-right">
+                                <h4 class="text-secondary">Foo</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-left">
+                                <p class="mb-0">- Letters of Appreciation Wilmington Residents</p>
+                                <p class="mb-0">- Letter of Commendation, Former Governor, Michael Castle</p>
+                                <p class="mb-0">- Certificate of Appreciation, Vocational Industrial Clubs of America</p>
+                                <p class="mb-0">- Outstanding Service Resolution, Wilmington City Council</p>
+                                <p class="mb-0">- Award of Achievement, Former Chief of Police: Samuel D. Pratcher</p>
+                                <p class="mb-0">- Letter of Commendation, Former County Executive: Dennis Greenhouse</p>
+                                <p class="mb-0">- Certificate of Appreciation, Vocational Industrial Clubs of America</p>
+                                <hr>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="projects-section row justify-content-center no-gutters mb-5 mb-lg-0">
+                <div class="col-lg-6">
+                    <div class="text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-right">
+                                <h4>Foo</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-left">
+                                <p class="mb-0">- Alpha Kappa Alpha Sorority, Inc. Zeta Omega Chapter</p>
+                                <p class="mb-0">- Founding Member of Delaware Chapter</p>
+                                <p class="mb-0">- Metropolitan Wilmington Urban League</p>
+                                <p class="mb-0">- National Organization of Black Law Enforcement Officers</p>
+                                <p class="mb-0">- Northwood Civic Association</p>
+                                <p class="mb-0">- Order of Eastern Star</p>
+                                <hr>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="projects-section row justify-content-center no-gutters mb-5 mb-lg-0">
+                <div class="col-lg-6">
+                    <div class="bg-primary text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-right">
+                                <h4>Foo</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="text-center h-100 project">
+                        <div class="d-flex h-100">
+                            <div class="project-text w-100 my-auto text-center text-lg-left">
+                                <p class="mb-0">- Memberships - Current & Past Affipations</p>
+                                <p class="mb-0">- Volunteer, Delaware Art Museum</p>
+                                <p class="mb-0">- Delaware Coaption for Domestic Violence</p>
+                                <p class="mb-0">- Jack & Jill of America, Inc; New Castle County Chapter</p>
+                                <p class="mb-0">- Northwood Civic Association</p>
+                                <p class="mb-0">- Volunteer, Special Olympics</p>
+                                <p class="mb-0">- Union Baptist Community Center Board of Directors</p>
+                                <p class="mb-0">- United Way Needs and Initiatives Committee</p>
+                                <p class="mb-0">- Women's Democratic Congress</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="btn btn-dark btn-xl js-scroll-trigger" href="#map">
+                View a Map of Delaware State Senate District 5
+            </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Map -->
+    <section class="content-section bg-primary text-white" id="map">
+        <div class="container text-center">
+            <div class="content-section-heading">
+                <h3 class="bg-primary text-secondary mb-0">Map</h3>
+                <h2 class="mb-4">
+                    View a Map of Delaware State Senate District 5
+                </h2>
+            </div>
+        </div>
+        <div class="col-lg-10 mx-auto text-center">
+            <p class="lead mb-5">
+                As seen in the map below, the state of Delaware's Senate State
+                District 5 covers various communities across North Wilmington
+                and Brandywine Hundred.
+            </p>
+        </div>
+    </section>
+
+    <div class="map">
+        <iframe src="embed.html"></iframe>
+    </div>
+
+    <!-- Contact -->
+    <section class="content-section bg-light" id="contact">
+        <div class="container text-center">
+            <div class="content-section-heading">
+                <h3 class="text-secondary mb-0">Contact</h3>
+                <h2 class="mb-4">Get in Touch with Denise</h2>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-12 mb-md-0 mb-5">
+                    <form id="contact-form" name="contact-form" action="https://formspree.io/xeqrwvog" method="POST">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="md-form mb-0">
+                                    <input type="text" id="name" name="name" class="form-control">
+                                    <label for="name">
+                                        <p>Name</p>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="md-form mb-0">
+                                    <input type="text" id="email" name="email" class="form-control">
+                                    <label for="email">
+                                        <p>Email</p>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="md-form mb-0">
+                                    <input type="text" id="subject" name="subject" class="form-control">
+                                    <label for="subject">
+                                        <p>Subject</p>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="md-form">
+                                    <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                                    <label for="message">Message</label>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="text-center text-md-center">
+                <a class="btn btn-dark btn-xl js-scroll-trigger" onclick="document.getElementById('contact-form').submit();">Send</a>
+            </div>
+            <div class="status"></div>
+            <div class="row">
+                <div class="col-md-4 text-center">
+                    <ul class="list-unstyled mb-0">
+                        <li><i class="fas fa-map-marker-alt purpleiconcolor mt-4 fa-2x"></i>
+                            <p>Wilmington, DE 19803</p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4 text-center">
+                    <ul class="list-unstyled mb-0">
+                        <li><i class="fas fa-phone purpleiconcolor mt-4 fa-2x"></i>
+                            <p>+1 (302) 478-7390</p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4 text-center">
+                    <ul class="list-unstyled mb-0">
+                        <li><i class="fas fa-envelope purpleiconcolor mt-4 fa-2x"></i>
+                            <p>denise@denisebowerssenate.com</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+
+    <!-- Donate -->
+    <section class="content-section bg-primary text-white" id="donate">
+        <div class="container text-center">
+            <div class="content-section-heading">
+                <h3 class="bg-primary text-secondary mb-0">Donate</h3>
+                <h2 class="mb-4">Make a Donation to Denise</h2>
+            </div>
+        </div>
+        <div class="col-lg-10 mx-auto text-center">
+            <p class="lead mb-5">
+                We have a great team in place and we will work hard to meet
+                voters and spread our message. Unfortunately, it takes more
+                than just volunteers. Campaigns are expensive and we need your
+                help.
+            </p>
+            <p class="lead mb-5">Consider donating via either ActBlue or
+                PayPal today!
+            </p>
+            <a href="https://secure.actblue.com/donate/denisebowerssenate-1"
+                target="_blank"
+                class="btn btn-xl btn-primary mr-4">
+                    ActBlue
+            </a>
+            <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VUWQX52VNGNUW&source=url"
+                target="_blank"
+                class="btn btn-xl btn-primary mr-4">
+                PayPal
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer text-center">
+        <div class="container">
+            <ul class="list-inline mb-5">
+                <li class="list-inline-item">
+                    <a target="_blank"
+                        class="social-link rounded-circle text-white mr-3"
+                        href="https://www.facebook.com/DeniseBowersForSenate">
+                            <i class="icon-social-facebook"></i>
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a target="_blank"
+                        class="social-link rounded-circle text-white mr-3"
+                        href="https://twitter.com/DeniseForSenate">
+                            <i class="icon-social-twitter"></i>
+                    </a>
+                </li>
+            </ul>
+            <p style="color: #3f2154" class="small mb-0">
+                Copyright &copy; Denise Bowers Delaware State Senate District 5 2020
+            </p>
+        </div>
+    </footer>
+
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded js-scroll-trigger" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/stylish-portfolio.min.js"></script>
+</body>
+</html>
