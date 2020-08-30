@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+        <meta charset="utf-8">
+
+        <title>Embedded Map</title>
+
+        <style type="text/css">
+            html, body, #map-canvas {
+                height: 100%;
+                margin: 0px;
+                padding: 0px
+            }
+        </style>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyA37nwcP6wbbnMJeDcBVC_ogLBg4kDwuTY"></script>
+        <script>
+            var map;
+            var infowindow;
+
+            function initialize() {
+                var mapOptions = {gestureHandling: 'cooperative'}
+                map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+                var mapLayer = new google.maps.KmlLayer({
+                url: "https://www.google.com/maps/d/kml?mid=14mkmaXcV-TkNcNS3VGMkVdxcbNu9yCta"  });
+
+                mapLayer.setMap(map);
+            }
+
+            google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
+    </head>
+    <body>
+        <div id="map-canvas"></div>
+    </body>
+</html>
